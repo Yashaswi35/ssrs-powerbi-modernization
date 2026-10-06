@@ -1,0 +1,10 @@
+check_name,expected_value,actual_value,status
+----------,--------------,------------,------
+API rows = extracted file rows,3015862.00,3015862.00,PASS
+Distinct NPIs: staging = dim_prescriber,115266.00,115266.00,PASS
+Duplicate rows at fact grain (expect 0),.00,.00,PASS
+File rows = staging rows,3015862.00,3015862.00,PASS
+Staging rows = fact rows,3015862.00,3015862.00,PASS
+Staging rows with unmapped state (expect 0),.00,.00,PASS
+Total claims: staging = fact,161936261.00,161936261.00,PASS
+Total drug cost: staging = fact,24492760550.36,24492760550.36,PASS
