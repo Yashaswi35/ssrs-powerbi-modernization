@@ -5,3 +5,4 @@ __pycache__/
 *.pbix.bak
 **/.pbi/cache.abf
 **/.pbi/localSettings.json
+.DS_Store
