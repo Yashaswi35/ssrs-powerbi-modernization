@@ -1,0 +1,102 @@
+﻿territory_name,cost_rank,brand_name,generic_name,total_claims,total_30day_fills,total_drug_cost,cost_per_claim,prescriber_count,pct_of_territory_cost
+Arkansas,1,Eliquis,Apixaban,"278,308","372,550","$197,319,546.33",$709.00,2751,9.10%
+Arkansas,2,Ozempic,Semaglutide,"128,547","160,304","$143,670,257.33","$1,117.65",1949,6.62%
+Arkansas,3,Jardiance,Empagliflozin,"111,604","165,708","$92,839,595.73",$831.87,2011,4.28%
+Arkansas,4,Mounjaro,Tirzepatide,"69,881","78,009","$81,539,617.70","$1,166.84",1350,3.76%
+Arkansas,5,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,"88,589","109,960","$69,701,465.11",$786.80,1501,3.21%
+Arkansas,6,Farxiga,Dapagliflozin Propanediol,"66,569","95,616","$51,529,007.50",$774.07,1408,2.38%
+Arkansas,7,Xarelto,Rivaroxaban,"68,626","97,875","$50,994,700.07",$743.08,1388,2.35%
+Arkansas,8,Entresto,Sacubitril/Valsartan,"59,143","79,250","$48,036,073.00",$812.20,882,2.21%
+Arkansas,9,Revlimid,Lenalidomide,"1,879","1,879","$31,437,310.48","$16,730.87",45,1.45%
+Arkansas,10,Humira(Cf) Pen,Adalimumab,"3,638","3,756","$31,320,352.01","$8,609.22",113,1.44%
+Arkansas,11,Trulicity,Dulaglutide,"26,306","31,859","$30,556,290.87","$1,161.57",847,1.41%
+Arkansas,12,Jakafi,Ruxolitinib Phosphate,"1,848","1,858","$28,717,748.82","$15,539.91",54,1.32%
+Arkansas,13,Xtandi,Enzalutamide,"1,877","1,887","$25,418,151.84","$13,541.90",54,1.17%
+Arkansas,14,Januvia,Sitagliptin Phosphate,"30,931","46,273","$23,582,078.73",$762.41,973,1.09%
+Arkansas,15,Stelara,Ustekinumab,839,"1,336","$22,900,276.86","$27,294.73",35,1.06%
+Arkansas,16,Ingrezza,Valbenazine Tosylate,"2,917","2,931","$22,556,003.12","$7,732.60",122,1.04%
+Arkansas,17,Enbrel Sureclick,Etanercept,"2,664","2,779","$20,828,947.94","$7,818.67",56,0.96%
+Arkansas,18,Linzess,Linaclotide,"28,022","38,256","$20,463,913.09",$730.28,936,0.94%
+Arkansas,19,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,"4,811","4,843","$19,239,953.06","$3,999.16",88,0.89%
+Arkansas,20,Imbruvica,Ibrutinib,"1,178","1,180","$18,379,162.37","$15,602.01",41,0.85%
+Arkansas,21,Invega Sustenna,Paliperidone Palmitate,"5,676","5,697","$17,802,486.97","$3,136.45",148,0.82%
+Arkansas,22,Pomalyst,Pomalidomide,810,810,"$17,295,545.90","$21,352.53",19,0.80%
+Arkansas,23,Ofev,Nintedanib Esylate,"1,359","1,365","$17,104,829.18","$12,586.33",47,0.79%
+Arkansas,24,Myrbetriq,Mirabegron,"30,089","39,718","$16,490,688.31",$548.06,805,0.76%
+Arkansas,25,Breztri Aerosphere,Budesonide/Glycopyr/Formoterol,"22,316","26,411","$16,354,975.53",$732.88,643,0.75%
+Louisiana,1,Eliquis,Apixaban,"386,940","549,896","$293,335,531.69",$758.09,3709,7.50%
+Louisiana,2,Ozempic,Semaglutide,"206,150","268,331","$244,714,443.13","$1,187.07",2919,6.26%
+Louisiana,3,Mounjaro,Tirzepatide,"173,261","201,385","$210,066,015.49","$1,212.43",2389,5.37%
+Louisiana,4,Jardiance,Empagliflozin,"207,957","339,395","$191,759,651.41",$922.11,3153,4.90%
+Louisiana,5,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,"113,206","144,249","$91,543,789.72",$808.65,1786,2.34%
+Louisiana,6,Trulicity,Dulaglutide,"72,726","91,949","$87,776,326.15","$1,206.95",1805,2.25%
+Louisiana,7,Entresto,Sacubitril/Valsartan,"95,871","136,641","$85,230,238.22",$889.01,1382,2.18%
+Louisiana,8,Xarelto,Rivaroxaban,"101,993","154,886","$80,947,306.02",$793.66,1831,2.07%
+Louisiana,9,Farxiga,Dapagliflozin Propanediol,"94,725","143,221","$77,011,184.61",$813.00,1975,1.97%
+Louisiana,10,Humira(Cf) Pen,Adalimumab,"8,980","9,182","$75,817,946.70","$8,442.98",183,1.94%
+Louisiana,11,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,"16,416","16,587","$64,467,217.67","$3,927.10",173,1.65%
+Louisiana,12,Januvia,Sitagliptin Phosphate,"71,841","113,468","$57,832,976.64",$805.01,1719,1.48%
+Louisiana,13,Linzess,Linaclotide,"77,788","107,211","$56,592,993.44",$727.53,1845,1.45%
+Louisiana,14,Revlimid,Lenalidomide,"3,095","3,096","$55,846,018.08","$18,043.95",80,1.43%
+Louisiana,15,Ingrezza,Valbenazine Tosylate,"6,594","6,621","$43,290,210.98","$6,565.09",229,1.11%
+Louisiana,16,Stelara,Ustekinumab,"1,443","2,213","$38,260,431.47","$26,514.51",52,0.98%
+Louisiana,17,Invega Sustenna,Paliperidone Palmitate,"12,806","12,840","$37,999,630.80","$2,967.33",330,0.97%
+Louisiana,18,Repatha Sureclick,Evolocumab,"47,803","63,600","$35,289,758.25",$738.23,831,0.90%
+Louisiana,19,Xtandi,Enzalutamide,"2,605","2,610","$35,195,721.41","$13,510.83",95,0.90%
+Louisiana,20,Myrbetriq,Mirabegron,"61,096","83,936","$34,858,621.27",$570.55,1273,0.89%
+Louisiana,21,Lenalidomide,Lenalidomide,"2,467","2,467","$33,842,635.45","$13,718.13",69,0.87%
+Louisiana,22,Dupixent Pen,Dupilumab,"8,449","8,558","$33,441,577.63","$3,958.05",232,0.86%
+Louisiana,23,Rinvoq,Upadacitinib,"4,654","4,848","$31,286,239.02","$6,722.44",97,0.80%
+Louisiana,24,Imbruvica,Ibrutinib,"1,761","1,774","$27,591,915.63","$15,668.32",67,0.71%
+Louisiana,25,Ofev,Nintedanib Esylate,"2,054","2,094","$26,748,541.10","$13,022.66",75,0.68%
+Oklahoma,1,Eliquis,Apixaban,"302,248","444,613","$238,711,995.40",$789.79,3042,8.95%
+Oklahoma,2,Ozempic,Semaglutide,"170,871","214,910","$196,237,225.73","$1,148.45",2442,7.36%
+Oklahoma,3,Jardiance,Empagliflozin,"132,923","215,868","$122,169,916.48",$919.10,2302,4.58%
+Oklahoma,4,Mounjaro,Tirzepatide,"92,310","108,023","$113,374,789.83","$1,228.20",1779,4.25%
+Oklahoma,5,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,"96,857","125,529","$79,771,738.38",$823.60,1650,2.99%
+Oklahoma,6,Trulicity,Dulaglutide,"51,918","64,499","$61,883,619.96","$1,191.95",1376,2.32%
+Oklahoma,7,Farxiga,Dapagliflozin Propanediol,"61,491","103,858","$55,852,957.30",$908.31,1376,2.09%
+Oklahoma,8,Humira(Cf) Pen,Adalimumab,"6,328","6,490","$54,138,615.88","$8,555.41",156,2.03%
+Oklahoma,9,Xarelto,Rivaroxaban,"61,687","101,431","$52,872,263.47",$857.11,1382,1.98%
+Oklahoma,10,Entresto,Sacubitril/Valsartan,"42,607","64,664","$40,113,636.94",$941.48,735,1.50%
+Oklahoma,11,Xtandi,Enzalutamide,"2,695","2,706","$36,071,511.52","$13,384.61",71,1.35%
+Oklahoma,12,Enbrel Sureclick,Etanercept,"4,520","4,683","$35,419,786.39","$7,836.24",103,1.33%
+Oklahoma,13,Revlimid,Lenalidomide,"1,972","1,972","$34,076,464.52","$17,280.15",55,1.28%
+Oklahoma,14,Januvia,Sitagliptin Phosphate,"34,609","58,687","$29,693,362.69",$857.97,1044,1.11%
+Oklahoma,15,Invega Sustenna,Paliperidone Palmitate,"8,295","8,308","$26,046,359.55","$3,140.01",195,0.98%
+Oklahoma,16,Myrbetriq,Mirabegron,"40,116","59,840","$25,507,222.44",$635.84,925,0.96%
+Oklahoma,17,Ofev,Nintedanib Esylate,"1,913","1,949","$25,305,763.14","$13,228.31",44,0.95%
+Oklahoma,18,Imbruvica,Ibrutinib,"1,490","1,494","$23,761,912.95","$15,947.59",47,0.89%
+Oklahoma,19,Ingrezza,Valbenazine Tosylate,"3,166","3,218","$23,059,910.09","$7,283.61",96,0.86%
+Oklahoma,20,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,"4,921","4,997","$19,777,296.77","$4,018.96",83,0.74%
+Oklahoma,21,Austedo,Deutetrabenazine,"2,658","2,671","$19,128,852.73","$7,196.71",81,0.72%
+Oklahoma,22,Vraylar,Cariprazine Hcl,"13,916","14,240","$17,965,497.77","$1,291.00",352,0.67%
+Oklahoma,23,Lenalidomide,Lenalidomide,"1,344","1,344","$17,885,312.93","$13,307.52",43,0.67%
+Oklahoma,24,Ibrance,Palbociclib,"1,143","1,144","$17,449,177.61","$15,266.12",35,0.65%
+Oklahoma,25,Calquence,Acalabrutinib Maleate,"1,230","1,232","$17,180,094.49","$13,967.56",47,0.64%
+Texas,1,Eliquis,Apixaban,"1,330,168","2,154,686","$1,158,201,749.14",$870.72,16325,7.36%
+Texas,2,Ozempic,Semaglutide,"879,280","1,253,728","$1,137,651,146.40","$1,293.84",13175,7.22%
+Texas,3,Jardiance,Empagliflozin,"671,729","1,314,149","$733,526,532.11","$1,092.00",12920,4.66%
+Texas,4,Mounjaro,Tirzepatide,"460,092","559,673","$583,005,531.39","$1,267.15",8990,3.70%
+Texas,5,Farxiga,Dapagliflozin Propanediol,"430,340","791,239","$423,930,548.16",$985.11,9350,2.69%
+Texas,6,Xarelto,Rivaroxaban,"349,778","628,348","$329,958,145.85",$943.34,7742,2.10%
+Texas,7,Trulicity,Dulaglutide,"227,839","330,706","$317,624,885.30","$1,394.08",6712,2.02%
+Texas,8,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,"365,781","501,807","$314,711,685.42",$860.38,6485,2.00%
+Texas,9,Revlimid,Lenalidomide,"15,861","15,867","$269,813,727.01","$17,011.14",432,1.71%
+Texas,10,Humira(Cf) Pen,Adalimumab,"30,671","33,015","$265,822,670.42","$8,666.91",760,1.69%
+Texas,11,Januvia,Sitagliptin Phosphate,"233,914","460,107","$237,756,716.00","$1,016.43",6892,1.51%
+Texas,12,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,"53,064","53,988","$213,640,367.42","$4,026.09",624,1.36%
+Texas,13,Entresto,Sacubitril/Valsartan,"200,334","346,596","$212,924,988.01","$1,062.85",3775,1.35%
+Texas,14,Xtandi,Enzalutamide,"14,132","14,265","$191,301,277.15","$13,536.74",397,1.21%
+Texas,15,Enbrel Sureclick,Etanercept,"21,504","22,907","$171,259,848.52","$7,964.09",417,1.09%
+Texas,16,Ofev,Nintedanib Esylate,"12,929","13,166","$168,271,110.89","$13,015.01",325,1.07%
+Texas,17,Myrbetriq,Mirabegron,"237,045","380,964","$161,867,770.27",$682.86,5466,1.03%
+Texas,18,Lenalidomide,Lenalidomide,"9,883","9,883","$135,262,331.32","$13,686.36",328,0.86%
+Texas,19,Ingrezza,Valbenazine Tosylate,"18,089","18,367","$132,703,796.66","$7,336.16",680,0.84%
+Texas,20,Erleada,Apalutamide,"8,395","8,616","$121,042,678.81","$14,418.43",226,0.77%
+Texas,21,Opsumit,Macitentan,"9,216","9,270","$116,557,354.80","$12,647.28",140,0.74%
+Texas,22,Linzess,Linaclotide,"138,273","219,887","$116,201,395.80",$840.38,4306,0.74%
+Texas,23,Rybelsus,Semaglutide,"74,365","124,878","$114,634,188.42","$1,541.51",2806,0.73%
+Texas,24,Imbruvica,Ibrutinib,"7,489","7,593","$111,441,522.35","$14,880.69",295,0.71%
+Texas,25,Calquence,Acalabrutinib Maleate,"7,355","7,394","$103,233,560.13","$14,035.83",277,0.66%
+

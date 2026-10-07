@@ -1,0 +1,19 @@
+{
+  "report": "prescribers",
+  "legacy_files": [
+    "legacy_top_prescribers.csv"
+  ],
+  "power_bi_files": [
+    "arkansas.csv",
+    "louisiana.csv",
+    "oklahoma.csv",
+    "texas.csv"
+  ],
+  "legacy_rows": 200,
+  "power_bi_rows": 200,
+  "rows_matched_on_keys": 200,
+  "value_checks": 800,
+  "value_checks_passed": 800,
+  "total_checks": 800,
+  "match_rate_pct": 100.0
+}

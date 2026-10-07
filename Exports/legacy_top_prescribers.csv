@@ -1,0 +1,202 @@
+﻿territory_name,cost_rank,npi,prescriber_name,specialty,city,total_claims,total_drug_cost,cost_per_claim,drug_count
+Arkansas,1,1609060334,"Waqas, Muhammad",Advanced Heart Failure and Transplant Cardiology,Little Rock,"7,090","$21,845,556.52","$3,081.18",55
+Arkansas,2,1063494953,"Nair, Balagopalan",Hematology-Oncology,Little Rock,"5,040","$15,207,359.77","$3,017.33",94
+Arkansas,3,1598747164,"Patel, Kamal",Hematology-Oncology,Little Rock,"4,020","$13,924,913.37","$3,463.91",80
+Arkansas,4,1053317941,"Sneed, Thomas",Hematology-Oncology,Little Rock,"4,530","$12,864,424.15","$2,839.83",89
+Arkansas,5,1568476901,"Zangari, Maurizio",Hematology-Oncology,Little Rock,805,"$12,159,042.03","$15,104.40",5
+Arkansas,6,1790904027,"Arzoumanian, Varant",Hematology-Oncology,Fort Smith,"6,506","$9,259,515.13","$1,423.23",104
+Arkansas,7,1295717189,"Mendelsohn, Lawrence",Hematology-Oncology,Little Rock,"4,131","$8,822,856.42","$2,135.77",76
+Arkansas,8,1467671792,"Khalil, Omer",Hematology-Oncology,Little Rock,"7,375","$8,381,230.33","$1,136.44",162
+Arkansas,9,1760469407,"Divers, Stephen",Medical Oncology,Hot Springs,"1,827","$8,189,653.73","$4,482.57",58
+Arkansas,10,1366761975,"Hall, Ryan",Hematology-Oncology,Little Rock,"3,386","$8,143,079.95","$2,404.93",91
+Arkansas,11,1003222647,"Kovvuru, Sukanthi",Neurology,Little Rock,"1,693","$8,125,697.27","$4,799.58",29
+Arkansas,12,1609131234,"Duvoor, Chitharanjan",Endocrinology,Jonesboro,"13,000","$8,062,225.91",$620.17,104
+Arkansas,13,1104897099,"Travis, Patrick",Medical Oncology,Fayetteville,"4,438","$7,958,144.17","$1,793.18",101
+Arkansas,14,1972693455,"Van Rhee, Frits",Hematology,Little Rock,743,"$7,371,785.13","$9,921.65",12
+Arkansas,15,1215113154,"Campbell, Patrick",Internal Medicine,Little Rock,"5,545","$6,963,107.50","$1,255.75",108
+Arkansas,16,1972537090,"Abraham, Ladly",Pulmonary Disease,Conway,"11,869","$6,792,880.91",$572.32,59
+Arkansas,17,1609954148,"Kennedy, Iris",Nurse Practitioner,Little Rock,"1,981","$6,646,967.64","$3,355.36",31
+Arkansas,18,1437141322,"Chi, Jasen",Rheumatology,Little Rock,"10,679","$6,372,254.70",$596.71,68
+Arkansas,19,1801901509,"Alesali, Maher",Endocrinology,White Hall,"9,456","$6,368,278.55",$673.46,83
+Arkansas,20,1164484614,"Baltz, Brad",Hematology-Oncology,Little Rock,"4,293","$6,265,673.29","$1,459.51",71
+Arkansas,21,1568686723,"Sampson, Roy",Rheumatology,Lowell,"3,784","$6,097,241.14","$1,611.32",44
+Arkansas,22,1659323608,"Khalil, Mazen",Internal Medicine,Jonesboro,"1,943","$6,062,168.91","$3,120.00",47
+Arkansas,23,1043290836,"Daily, Jason",Endocrinology,Fayetteville,"10,694","$6,011,354.51",$562.12,108
+Arkansas,24,1518181775,"Hughes, Brian",Gastroenterology,Little Rock,"2,754","$5,400,398.67","$1,960.93",37
+Arkansas,25,1083685283,"Rosenfeld, Stephan",Medical Oncology,Fayetteville,"1,656","$5,374,586.97","$3,245.52",38
+Arkansas,26,1447583406,"Mohamed, Noha",Rheumatology,Conway,"4,015","$5,223,487.24","$1,300.99",46
+Arkansas,27,1184606071,"Harrington, Mariann",Hematology-Oncology,Little Rock,"3,041","$5,206,002.43","$1,711.94",60
+Arkansas,28,1609984368,"Jauss, Kewen",Hematology-Oncology,Little Rock,"2,384","$5,167,900.34","$2,167.74",60
+Arkansas,29,1518962968,"Ferguson, Clay",Family Practice,Nashville,"90,895","$5,160,615.21",$56.78,439
+Arkansas,30,1639359714,"Abdel-Karim, Isam",Hematology-Oncology,Fort Smith,"1,359","$5,061,588.71","$3,724.50",40
+Arkansas,31,1265875470,"Lockwood, Matthew",Hematology-Oncology,Fayetteville,"2,707","$4,848,877.44","$1,791.24",74
+Arkansas,32,1619959525,"Wilder, Diane",Medical Oncology,Little Rock,"2,900","$4,789,008.34","$1,651.38",45
+Arkansas,33,1184714669,"Johnson, Larry",Pulmonary Disease,Little Rock,765,"$4,620,734.40","$6,040.18",18
+Arkansas,34,1407877947,"Mackey, Daniel",Hematology-Oncology,Fort Smith,"2,328","$4,537,088.09","$1,948.92",57
+Arkansas,35,1619133519,"Bao, Shunzhong",Endocrinology,Little Rock,"10,801","$4,524,782.91",$418.92,103
+Arkansas,36,1841250875,"Thrasher, James",Internal Medicine,Little Rock,"10,766","$4,465,624.85",$414.79,102
+Arkansas,37,1306936877,"Jain, Nidhi",Endocrinology,Little Rock,"11,188","$4,398,245.78",$393.12,101
+Arkansas,38,1891834016,"Gentry, Rhonda",Hematology-Oncology,Little Rock,"3,303","$4,336,256.55","$1,312.82",61
+Arkansas,39,1275532715,"Tsuda, Sue",Hematology-Oncology,Conway,"1,395","$4,331,115.33","$3,104.74",34
+Arkansas,40,1699865170,"Archer, Robert",Neurology,Little Rock,"5,444","$4,286,102.85",$787.31,116
+Arkansas,41,1093849432,"Kuperman, David",Medical Oncology,Little Rock,"2,410","$4,178,665.21","$1,733.89",74
+Arkansas,42,1902284326,"Briggler, Andrew",Hematology-Oncology,Little Rock,"2,293","$4,152,711.52","$1,811.04",55
+Arkansas,43,1124231816,"Dorroh, Scott",Hematology-Oncology,Jonesboro,"2,456","$4,065,038.71","$1,655.15",55
+Arkansas,44,1184838369,"Khadam-Makhoul, Hanan",Pulmonary Disease,Little Rock,"6,219","$4,000,144.28",$643.21,68
+Arkansas,45,1619222437,"Goraya, Harmeen",Pulmonary Disease,Little Rock,317,"$3,971,970.13","$12,529.87",9
+Arkansas,46,1376577387,"Abochale, Eyad",Pulmonary Disease,Little Rock,"5,619","$3,926,863.90",$698.85,60
+Arkansas,47,1508152471,"Jewell, Sarah",Hematology-Oncology,Heber Springs,"2,486","$3,907,070.64","$1,571.63",61
+Arkansas,48,1003080854,"Kumaran, Muthu",Medical Oncology,Little Rock,730,"$3,864,706.78","$5,294.12",27
+Arkansas,49,1568441368,"Beck, Joseph",Hematology-Oncology,Little Rock,"1,578","$3,702,815.83","$2,346.52",45
+Arkansas,50,1699779314,"Schwarz, Julio",Cardiology,Fort Smith,"18,439","$3,669,216.94",$198.99,80
+Louisiana,1,1528279965,"Koticha, Kirtan",Hematology-Oncology,Shreveport,"5,529","$26,260,529.69","$4,749.60",111
+Louisiana,2,1083618912,"Dhawan, Manish",Hematology-Oncology,Minden,"5,739","$22,229,103.84","$3,873.34",123
+Louisiana,3,1467408492,"Azmeh, Waref",Infectious Disease,Baton Rouge,"15,654","$13,440,392.88",$858.59,247
+Louisiana,4,1144458704,"Dalovisio, Andrew",Hematology-Oncology,Baton Rouge,"2,450","$12,338,742.98","$5,036.22",61
+Louisiana,5,1356630958,"Beyl, Randall",Rheumatology,Baton Rouge,"6,506","$10,873,116.98","$1,671.24",68
+Louisiana,6,1477538726,"Eiswirth, Clement",Advanced Heart Failure and Transplant Cardiology,New Orleans,"3,119","$9,799,182.89","$3,141.77",42
+Louisiana,7,1104140144,"Chandamuri, Babiswarup",Gastroenterology,Houma,595,"$9,777,787.54","$16,433.26",8
+Louisiana,8,1184635344,"Mallepalli, Jyothi",Rheumatology,Monroe,"21,352","$9,731,870.01",$455.78,108
+Louisiana,9,1649259789,"Spady, Malik",Rheumatology,Covington,"17,799","$9,516,593.82",$534.67,210
+Louisiana,10,1518991975,"Brooks, Burke",Hematology-Oncology,Baton Rouge,"4,251","$9,370,296.12","$2,204.26",62
+Louisiana,11,1659456242,"Hojaili, Bernard",Internal Medicine,New Iberia,"16,476","$9,249,052.73",$561.37,92
+Louisiana,12,1356528616,"Byram, Robert",Nurse Practitioner,New Orleans,"1,334","$8,915,370.86","$6,683.19",32
+Louisiana,13,1750324463,"Deboisblanc, Bennett",Pulmonary Disease,New Orleans,"1,038","$8,828,563.59","$8,505.36",15
+Louisiana,14,1649460239,"Gauthier, Carl",Rheumatology,Hammond,"15,130","$8,647,891.20",$571.57,96
+Louisiana,15,1770506735,"Stuart, Michael",Internal Medicine,Baton Rouge,"8,717","$8,223,881.50",$943.43,129
+Louisiana,16,1205814092,"Castine, Michael",Hematology-Oncology,Baton Rouge,"2,834","$7,961,423.36","$2,809.25",80
+Louisiana,17,1932337052,"Frey, Lane",Endocrinology,Thibodaux,"13,017","$7,929,100.80",$609.13,86
+Louisiana,18,1285637314,"Abi-Rached, Bassam",Hematology-Oncology,Alexandria,"2,302","$7,587,755.84","$3,296.16",53
+Louisiana,19,1043260607,"Lipstate, James",Rheumatology,Lafayette,"10,751","$7,303,729.51",$679.35,78
+Louisiana,20,1245217728,"Miletello, Gerald",Hematology-Oncology,Baton Rouge,"2,189","$7,253,525.58","$3,313.63",62
+Louisiana,21,1790797454,"Boh, Erin",Dermatology,New Orleans,"3,228","$7,129,275.74","$2,208.57",70
+Louisiana,22,1245229459,"Callerame, Kevin",Neurology,Baton Rouge,"7,367","$7,109,440.27",$965.04,108
+Louisiana,23,1013132653,"Lokitz, Kyla",Internal Medicine,Shreveport,"3,356","$6,837,375.94","$2,037.36",36
+Louisiana,24,1104883305,"Oubre, David",Hematology-Oncology,Hammond,"1,336","$6,626,816.35","$4,960.19",40
+Louisiana,25,1174605646,"Mendez, Enrique",Rheumatology,Lake Charles,"6,622","$6,513,532.35",$983.62,58
+Louisiana,26,1295707669,"Miller, Harold",Endocrinology,Hammond,"11,224","$6,337,738.82",$564.66,159
+Louisiana,27,1801143599,"Haar, Laura",Physician Assistant,Slidell,"7,945","$6,234,049.89",$784.65,134
+Louisiana,28,1679865562,"Stober, Kieran",Internal Medicine,Marrero,"1,637","$5,997,071.80","$3,663.45",47
+Louisiana,29,1376802595,"Schroeder, Jonathan",Internal Medicine,Baton Rouge,"5,656","$5,973,134.55","$1,056.07",109
+Louisiana,30,1407146418,"Davis, Carter",Hematology-Oncology,New Orleans,"2,348","$5,935,175.40","$2,527.76",64
+Louisiana,31,1205884319,"Walter, Robert",Pulmonary Disease,Shreveport,750,"$5,882,455.83","$7,843.27",18
+Louisiana,32,1336246107,"Lovera, Jesus",Neurology,New Orleans,"3,077","$5,873,782.06","$1,908.93",82
+Louisiana,33,1508859455,"Garcia-Caro, Miguel",Rheumatology,Alexandria,"10,031","$5,832,897.80",$581.49,137
+Louisiana,34,1538566062,"Posas-Mendoza, Therese",Rheumatology,Covington,"2,965","$5,763,153.74","$1,943.73",41
+Louisiana,35,1457016628,"Stark, Jennifer",Nurse Practitioner,Hammond,387,"$5,742,952.36","$14,839.67",10
+Louisiana,36,1982104790,"Janis, Brett",Nurse Practitioner,Baton Rouge,"18,220","$5,570,553.83",$305.74,92
+Louisiana,37,1275776718,"Gallagher, Kevin",Hematology-Oncology,Shreveport,"1,195","$5,544,574.58","$4,639.81",35
+Louisiana,38,1154639839,"Thiagarajan, Saravanan",Rheumatology,Baton Rouge,"6,029","$5,522,140.96",$915.93,78
+Louisiana,39,1174800569,"Donnelly, Hollie",Nurse Practitioner,Lake Charles,"5,020","$5,510,996.06","$1,097.81",44
+Louisiana,40,1770581274,"Adley, Sharon",Nurse Practitioner,Shreveport,"1,825","$5,479,522.31","$3,002.48",26
+Louisiana,41,1437449949,"Lash, Tyler",Hematology-Oncology,Shreveport,"2,215","$5,354,454.76","$2,417.36",57
+Louisiana,42,1235349812,"Harris, Meghan",Neurology,Shreveport,"7,411","$5,349,843.89",$721.88,122
+Louisiana,43,1912093709,"Bourque, Thad",Urology,Lafayette,"4,862","$5,272,097.60","$1,084.35",34
+Louisiana,44,1922016757,"Scheuermann, Jennifer",Physician Assistant,New Orleans,704,"$5,270,878.67","$7,487.04",18
+Louisiana,45,1073563631,"Baquet, Bennett",Endocrinology,Lafayette,"16,869","$5,223,856.77",$309.67,132
+Louisiana,46,1770774549,"Finn, Laura",Hematology-Oncology,New Orleans,"1,248","$5,197,949.95","$4,165.02",39
+Louisiana,47,1225442254,"Ramadas, Poornima",Internal Medicine,Shreveport,"1,190","$5,118,115.66","$4,300.94",22
+Louisiana,48,1982882874,"Gaspard, Gregory",Gastroenterology,Baton Rouge,951,"$5,032,715.78","$5,292.03",31
+Louisiana,49,1083679468,"Sonnier, Scott",Hematology-Oncology,New Orleans,"2,026","$5,014,015.30","$2,474.83",56
+Louisiana,50,1548603996,"Hebert, Scott",Hematology-Oncology,Thibodaux,"3,173","$4,994,098.93","$1,573.94",69
+Oklahoma,1,1689863953,"Kingrey, John",Pulmonary Disease,Oklahoma City,"6,150","$37,112,737.19","$6,034.59",57
+Oklahoma,2,1336222504,"Morton, Robert",Psychiatry,Ada,"114,941","$34,813,937.57",$302.89,292
+Oklahoma,3,1952508533,"Hapani, Sanjaykumar",Medical Oncology,Edmond,"3,444","$17,166,235.03","$4,984.39",64
+Oklahoma,4,1881896397,"Karunapuzha, Cherian",Neurology,Oklahoma City,"11,042","$12,349,417.77","$1,118.40",86
+Oklahoma,5,1386837151,"Abdallah, Al-Ola",Hematology,Tulsa,"1,913","$10,750,321.74","$5,619.61",27
+Oklahoma,6,1265813513,"Ayanambakkam Attanathi, Adanma Anji",Hematology-Oncology,Oklahoma City,"1,822","$9,737,771.72","$5,344.55",30
+Oklahoma,7,1194760918,"Hamadeh, Fahed",Rheumatology,Oklahoma City,"11,139","$9,158,152.43",$822.17,72
+Oklahoma,8,1346351004,"Cole, Scott",Medical Oncology,Tulsa,"2,622","$8,229,615.28","$3,138.68",54
+Oklahoma,9,1003998816,"Carey, Terence",Allergy/ Immunology,Tulsa,"4,785","$7,755,195.32","$1,620.73",139
+Oklahoma,10,1679509657,"Krablin, James",Geriatric Medicine,Lexington,"114,306","$7,634,096.12",$66.79,468
+Oklahoma,11,1164755872,"Mcelyea, Jason",Emergency Medicine,Mcalester,"43,928","$7,618,233.43",$173.43,34
+Oklahoma,12,1780853358,"Showalter, Thomas",Medical Oncology,Oklahoma City,"1,880","$7,283,451.14","$3,874.18",53
+Oklahoma,13,1205814449,"Oatman, Mark",Family Practice,Ponca City,"42,858","$7,261,494.32",$169.43,59
+Oklahoma,14,1386697548,"Keefer, Michael",Medical Oncology,Oklahoma City,"1,919","$6,846,445.77","$3,567.72",54
+Oklahoma,15,1447606348,"Scheckel, Caleb",Hematology-Oncology,Tulsa,"1,746","$6,803,483.81","$3,896.61",47
+Oklahoma,16,1588148571,"Morgan, Jeremy",Nurse Practitioner,Tulsa,"3,139","$6,736,218.35","$2,145.98",48
+Oklahoma,17,1922059666,"Armor, Jess",Hematology-Oncology,Oklahoma City,"2,458","$6,681,451.37","$2,718.25",70
+Oklahoma,18,1255564589,"Huynh, Huong",Nurse Practitioner,Tulsa,"6,224","$6,616,823.03","$1,063.11",90
+Oklahoma,19,1225505944,"Mueller, Morgan",Physician Assistant,Oklahoma City,"3,385","$6,606,964.43","$1,951.84",49
+Oklahoma,20,1376524561,"Purser, Jane",Internal Medicine,Tulsa,"1,948","$6,599,543.84","$3,387.86",44
+Oklahoma,21,1982699096,"Brown, Jack",Family Practice,Sand Springs,"96,022","$6,164,309.14",$64.20,404
+Oklahoma,22,1992895478,"Nazir, Shoab",Pulmonary Disease,Oklahoma City,"7,445","$6,000,146.42",$805.93,53
+Oklahoma,23,1710925680,"Tyrrell, Mickey",Family Practice,Vinita,"21,083","$5,804,916.75",$275.34,227
+Oklahoma,24,1548207814,"Moussa, Ali",Hematology-Oncology,Tulsa,"3,816","$5,689,795.62","$1,491.04",72
+Oklahoma,25,1104053792,"Aye, Than",Hematology-Oncology,Lawton,"1,510","$5,599,435.16","$3,708.24",39
+Oklahoma,26,1538315676,"Kaleem, Hassan",Radiation Oncology,Tulsa,"1,299","$5,450,522.23","$4,195.94",41
+Oklahoma,27,1457363236,"Armstrong, Matthew",Medical Oncology,Tulsa,"2,814","$5,409,420.93","$1,922.32",63
+Oklahoma,28,1538251632,"Beson, Brent",Neurology,Oklahoma City,"1,143","$5,315,826.08","$4,650.77",26
+Oklahoma,29,1003859679,"Taylor, Charles",Medical Oncology,Tulsa,"2,153","$5,302,043.35","$2,462.63",48
+Oklahoma,30,1679708259,"Silvestre, Omar",Rheumatology,Oklahoma City,"5,162","$5,285,456.52","$1,023.92",35
+Oklahoma,31,1124069364,"Mcminn, Johnny",Medical Oncology,Oklahoma City,"1,636","$5,234,901.79","$3,199.82",45
+Oklahoma,32,1154382711,"Surbeck, William",Rheumatology,Tulsa,"5,418","$5,053,689.33",$932.76,50
+Oklahoma,33,1730567124,"Stroud, Steven",Cardiology,Tulsa,"1,944","$5,048,918.62","$2,597.18",37
+Oklahoma,34,1467430900,"Cable, Ronald",Emergency Medicine,Oklahoma City,"54,497","$5,044,428.73",$92.56,383
+Oklahoma,35,1891835708,"Malik, Sanober",Rheumatology,Norman,"3,373","$4,912,693.24","$1,456.48",39
+Oklahoma,36,1366747149,"Ashraf, Zubair",Rheumatology,Oklahoma City,"3,861","$4,903,315.52","$1,269.96",48
+Oklahoma,37,1487968418,"Kebbe, Jad",Pulmonary Disease,Oklahoma City,"1,502","$4,894,512.45","$3,258.66",34
+Oklahoma,38,1144214370,"Craven, Pamela",Cardiology,Oklahoma City,"14,201","$4,789,946.14",$337.30,113
+Oklahoma,39,1073615324,"Kaushik, Prashant",Rheumatology,Tahlequah,"1,359","$4,706,169.36","$3,462.96",21
+Oklahoma,40,1851754121,"Horton, Joel",Rheumatology,Tulsa,"4,489","$4,640,003.03","$1,033.64",47
+Oklahoma,41,1063081669,"Nash, Katherine",Nurse Practitioner,Oklahoma City,368,"$4,560,170.08","$12,391.77",11
+Oklahoma,42,1770521064,"Kershen, Joshua",Neurology,Oklahoma City,576,"$4,539,911.37","$7,881.79",17
+Oklahoma,43,1851348700,"Hassany, Syed",Hematology-Oncology,Muskogee,"1,815","$4,496,865.15","$2,477.61",48
+Oklahoma,44,1568478071,"Kennedy, Grace",Pulmonary Disease,Tulsa,"3,839","$4,418,231.07","$1,150.88",52
+Oklahoma,45,1265619530,"Razaq, Wajeeha",Hematology-Oncology,Oklahoma City,"1,687","$4,406,607.04","$2,612.10",24
+Oklahoma,46,1255318168,"Lade, Arvid",Internal Medicine,Tulsa,"56,404","$4,383,996.61",$77.72,363
+Oklahoma,47,1407903644,"Finch, Corey",Emergency Medicine,Oklahoma City,"58,299","$4,364,769.63",$74.87,393
+Oklahoma,48,1285015057,"Shepherd, Caitlin",Urology,Oklahoma City,"2,758","$4,361,564.03","$1,581.42",27
+Oklahoma,49,1659665867,"Morton, Jordan",Hematology-Oncology,Oklahoma City,"2,349","$4,354,222.13","$1,853.65",59
+Oklahoma,50,1629015763,"Schnitz, William",Rheumatology,Oklahoma City,"3,484","$4,344,763.13","$1,247.06",71
+Texas,1,1871547596,"Garcia, Elvin",Rheumatology,Mcallen,"41,567","$42,568,087.59","$1,024.08",119
+Texas,2,1265789598,"Matthews, Amanda",Physician Assistant,San Antonio,"4,929","$33,279,728.23","$6,751.82",42
+Texas,3,1467569822,"Oliva, Anthony",Internal Medicine,San Antonio,"162,869","$30,214,954.68",$185.52,25
+Texas,4,1669602710,"Sahay, Sandeep",Pulmonary Disease,Houston,"2,850","$28,936,912.27","$10,153.30",31
+Texas,5,1497183529,"Ramos, Jamiel",Nurse Practitioner,San Antonio,"2,795","$27,584,632.91","$9,869.28",23
+Texas,6,1578873857,"Alvarez, Naiara",Rheumatology,Harlingen,"6,692","$25,232,025.94","$3,770.48",74
+Texas,7,1821253311,"Moscoso-Agosto, Alejandra",Family Practice,Mckinney,"142,583","$22,799,270.17",$159.90,23
+Texas,8,1669532891,"Safdar, Zeenat",Pulmonary Disease,Houston,"3,036","$19,185,421.01","$6,319.31",46
+Texas,9,1174599948,"Galindo, Eugenio",Hematology-Oncology,Mcallen,"4,535","$18,963,226.15","$4,181.53",74
+Texas,10,1811367451,"Pham, Tram",Physician Assistant,San Antonio,"4,470","$18,651,029.87","$4,172.49",18
+Texas,11,1952540924,"Harden, Scarlett",Nurse Practitioner,Dallas,"3,316","$17,473,071.54","$5,269.32",34
+Texas,12,1679673248,"Shenkenberg, Todd",Medical Oncology,Harlingen,"13,710","$16,570,835.31","$1,208.67",200
+Texas,13,1366436263,"Gathe, Joseph",Infectious Disease,Houston,"10,718","$16,037,743.22","$1,496.34",168
+Texas,14,1144267766,"Anderson, Larry",Hematopoietic Cell Transplantation and Cellular Therapy,Dallas,"2,382","$15,874,845.99","$6,664.50",38
+Texas,15,1881845253,"Ghadimi-Mahani, Mohsen",Hematology-Oncology,Laredo,"3,632","$14,977,476.23","$4,123.75",94
+Texas,16,1124391198,"Khalil, Mohamed",Neurology,Webster,"3,619","$14,228,834.55","$3,931.70",60
+Texas,17,1972687127,"Dallas, John",Pulmonary Disease,Austin,"1,455","$14,062,445.59","$9,664.91",19
+Texas,18,1306923180,"Aloba, Maria",Hematology-Oncology,El Paso,"3,817","$13,912,365.12","$3,644.84",64
+Texas,19,1487636205,"Akhrass, Firas",Endocrinology,San Antonio,"11,190","$13,873,444.46","$1,239.81",124
+Texas,20,1144282351,"Test, Victor",Pulmonary Disease,Lubbock,"2,339","$12,938,528.82","$5,531.65",38
+Texas,21,1306833173,"Vanwinkle, Lloyd",Family Practice,Castroville,"63,238","$12,879,900.79",$203.67,123
+Texas,22,1285660241,"Karimjee, Najmuddin",Internal Medicine,Houston,"115,746","$12,597,597.54",$108.84,438
+Texas,23,1770668758,"Bhatt, Kunjan",Cardiology,Austin,"4,926","$12,553,948.88","$2,548.51",44
+Texas,24,1013297167,"Butler, Matthew",Hematology-Oncology,San Antonio,"1,589","$11,707,871.27","$7,368.08",35
+Texas,25,1639331473,"Trachtenberg, Barry",Advanced Heart Failure and Transplant Cardiology,Houston,"5,696","$11,622,613.12","$2,040.49",53
+Texas,26,1447402896,"Tumula, Praveen",Hematology-Oncology,Amarillo,"3,498","$11,333,348.23","$3,239.95",73
+Texas,27,1366493322,"Tonn, Melissa",Preventive Medicine,Dallas,"47,568","$11,271,163.94",$236.95,15
+Texas,28,1225320278,"Salayandia, Luis",Rheumatology,El Paso,"9,166","$11,248,678.71","$1,227.22",95
+Texas,29,1164432506,"Griego, Enrique",Family Practice,Mcallen,"49,680","$11,181,769.67",$225.08,260
+Texas,30,1225470693,"Estrada Anzueto, Rodolfo",Pulmonary Disease,San Antonio,"1,297","$10,491,034.99","$8,088.69",23
+Texas,31,1952483380,"Thomas, Sheeba",Medical Oncology,Houston,"1,014","$10,268,771.36","$10,126.99",19
+Texas,32,1033222906,"Spier, Jeffrey",Urology,El Paso,"3,379","$10,117,555.93","$2,994.25",31
+Texas,33,1295876399,"Kable, Sanober",Pulmonary Disease,Denison,"5,528","$10,098,812.12","$1,826.85",62
+Texas,34,1477504611,"He, Zening",Hematology-Oncology,El Paso,"2,534","$9,972,989.68","$3,935.67",56
+Texas,35,1073624292,"Fung, Hing-Sheung",Internal Medicine,Waco,"7,767","$9,933,521.36","$1,278.94",78
+Texas,36,1952305591,"Mahmood, Aftab",Medical Oncology,Corpus Christi,"4,268","$9,842,616.34","$2,306.14",107
+Texas,37,1922088947,"Saltzstein, Daniel",Urology,San Antonio,"5,289","$9,678,484.14","$1,829.93",38
+Texas,38,1982644498,"Rakkhit, Ronjay",Hematology-Oncology,Houston,"2,820","$9,490,506.61","$3,365.43",70
+Texas,39,1770579161,"Vestal, James",Urology,Arlington,"2,258","$9,383,718.33","$4,155.77",28
+Texas,40,1790954758,"Yau, Peter",Pulmonary Disease,Temple,"1,288","$9,124,556.06","$7,084.28",32
+Texas,41,1982660338,"Aleman Weinmann, Ann",Internal Medicine,Corpus Christi,"11,237","$9,051,367.33",$805.50,79
+Texas,42,1013912856,"Kamali, Kayvan",Rheumatology,Longview,"17,345","$9,011,465.19",$519.54,70
+Texas,43,1750392908,"Kapoor, Rohit",Hematology-Oncology,Live Oak,"1,938","$9,004,434.48","$4,646.25",66
+Texas,44,1437164803,"Rovner, Sergio",Endocrinology,El Paso,"14,790","$8,957,921.55",$605.67,148
+Texas,45,1073959326,"Luna, Eduardo",Endocrinology,Edinburg,"4,335","$8,843,955.34","$2,040.13",74
+Texas,46,1942217278,"Martinez, Rafael",Family Practice,San Antonio,"10,784","$8,774,745.11",$813.68,165
+Texas,47,1710197363,"Choudhry, Muhammad",Endocrinology,Weatherford,"9,699","$8,689,519.06",$895.92,114
+Texas,48,1962609693,"Guha, Ashrith",Cardiology,Houston,"3,709","$8,688,011.45","$2,342.41",50
+Texas,49,1588695423,"Hekimian, Khoren",Family Practice,Troup,"110,767","$8,642,437.07",$78.02,457
+Texas,50,1083946693,"Phan, Duc",Internal Medicine,Houston,"48,394","$8,625,268.59",$178.23,323
+

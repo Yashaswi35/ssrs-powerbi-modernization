@@ -65,6 +65,10 @@ def load(paths, spec, label):
     for f in files:
         df = pd.read_csv(f, dtype=str, encoding="utf-8-sig", keep_default_na=False)
         df.columns = [normalize_name(c) for c in df.columns]
+        if "territory_name" not in df.columns:
+            # One export per territory: take the territory from the file name (arkansas.csv -> Arkansas)
+            df["territory_name"] = f.stem.replace("_", " ").title()
+            print(f"  {label} {f.name}: territory_name taken from file name -> {df['territory_name'].iloc[0]}")
         needed = spec["keys"] + spec["measures"]
         missing = [c for c in needed if c not in df.columns]
         if missing:
